@@ -46,12 +46,12 @@
 
 html{
 	padding-top: 20px;
-	margin: 20px;
-	
+
+
 }
 
 body { color: #444;
-	background: green; font-family: 'Lato', 'Open Sans', sans-serif; font-size: 14px; line-height: 160%; }
+	 font-family: 'Lato', 'Open Sans', sans-serif; font-size: 14px; line-height: 160%; }
 
 p { margin: 0 0 15px; padding: 0; }
 
